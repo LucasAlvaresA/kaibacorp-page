@@ -41,13 +41,13 @@ const Globals = createGlobalStyle`
   }
 
   :root {
-    --primary: #42C1C7;
-    --primary-strong:#287477;
+    --primary: #2076C0;
+    --primary-strong: #0C4CA3;
     --light-blue: #86dfe0;
     --error: #DA1E28;
     --success: #24A148;
     --white:#FFFFFF;
-    --gray1:#F4F4F4;
+    --gray1:#388BC6;
     --gray2:#E0E0E0;
     --gray3:#A8A8A8;
     --gray4:#6F6F6F;

@@ -1,0 +1,77 @@
+{
+  "mainTitle": {
+    "left": {
+      "title": {
+        "1": {
+          "pt-br": "Oferecemos",
+          "en-en": "We offer",
+          "es-es": "Ofrecemos"
+        },
+        "2": {
+          "pt-br": "nossas soluções para empresas que:",
+          "en-en": "our solutions to companies that:",
+          "es-es": "nuestras soluciones para empresas que:"
+        }
+      }
+    },
+    "right": {
+      "title": {
+        "1": {
+          "pt-br": "Não oferecemos",
+          "en-en": "We do not offer",
+          "es-es": "No ofrecemos"
+        },
+        "2": {
+          "pt-br": "nossas soluções para empresas que:",
+          "en-en": "our solutions to companies that:",
+          "es-es": "nuestras soluciones para empresas que:"
+        }
+      }
+    }
+  },
+  "list_left": {
+    "1": {
+      "pt-br": "desejam aumentar seu faturamento usando produtos e serviços financeiros;",
+      "en-en": "wish to increase their revenue using financial products and services;",
+      "es-es": "desean aumentar sus ingresos utilizando productos y servicios financieros;"
+    },
+    "2": {
+      "pt-br": "entendem que existem novas formas de monetizar suas bases de clientes;",
+      "en-en": "understand that there are new ways to monetize their customer base;",
+      "es-es": "comprender que existen nuevas formas de monetizar su base de clientes;"
+    },
+    "3": {
+      "pt-br": "querem estar em conformidade com o regulatório local;",
+      "en-en": "want to comply with local regulations;",
+      "es-es": "desean cumplir con las regulaciones locales;"
+    },
+    "4": {
+      "pt-br": "tenham ciência da complexidade de um banco, mas aceitam os desafios.",
+      "en-en": "are aware of the complexity of a bank, but accept the challenges.",
+      "es-es": "son conscientes de la complejidad de un banco, pero aceptan los desafíos."
+    }
+  }
+    ,
+  "list_right": {
+    "1": {
+      "pt-br": "deixam de lado regras de compliance e assumem riscos em suas operações;",
+      "en-en": "set aside compliance rules and assume risks in their operations;",
+      "es-es": "dejan de lado las normas de cumplimiento y asumen riesgos en sus operaciones;"
+    },
+    "2": {
+      "pt-br": "não querem investir tempo e recursos em nossas tecnologias;",
+      "en-en": "não querem investir tempo e recursos em nossas tecnologias;",
+      "es-es": "no quieren invertir tiempo y recursos en nuestras tecnologías;"
+    },
+    "3": {
+      "pt-br": "querem um banco digital mas não suportam toda a carga de responsabilidade;",
+      "en-en": "don't want to invest time and resources in our technologies; and take risks in their operations;",
+      "es-es": "quieren un banco digital pero no soportan toda la carga de la responsabilidad;"
+    },
+    "4": {
+      "pt-br": "não visam o negócio, e sim status.",
+      "en-en": "are not aimed at business, but at status.",
+      "es-es": "no están dirigidos a los negocios, sino al estatus."
+    }
+  }
+}

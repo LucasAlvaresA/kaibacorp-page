@@ -1,0 +1,21 @@
+{
+  "section_contactUs": {
+    "box_text": {
+      "title": {
+        "pt-br": "Fale Conosco!",
+        "en-en": "Contact us!",
+        "es-es": "¡Hable con Nosotros!"
+      },
+      "text": {
+        "pt-br": "De pagamento até um banco completo, somos uma one-stop-shop que oferece a infraestrutura e tecnologia para o seu negócio, de forma eficiente e sem burocracia.",
+        "en-en": "From payment to a complete bank, we are a one-stop-shop that offers the infrastructure and technology for your business, efficiently and without bureaucracy.",
+        "es-es": "Desde el pago hasta un banco completo, somos una one-stop-shop que ofrece la infraestructura e tecnología para su negocio, de manera eficiente y sin burocracia."
+      }
+    },
+    "button": {
+      "pt-br": "CLIQUE AQUI E ENTRE EM CONTATO!",
+      "en-en": "CLICK HERE AND CONTACT US!",
+      "es-es": " HAGA CLIC AQUÍ Y CONTÁCTENOS!"
+    }
+  }
+}

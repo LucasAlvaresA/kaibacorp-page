@@ -1,0 +1,111 @@
+{
+  "section_resume": {
+    "header": {
+      "button": {
+        "pt-br": "ENTRE EM CONTATO",
+        "en-en": "CONTACT US",
+        "es-es": "CONTÁCTENOS"
+      }
+    },
+    "left": {
+      "title": {
+        "1": {
+          "pt-br": "Seus",
+          "en-en": "Your",
+          "es-es": "Sus"
+        },
+        "2": {
+          "pt-br": "Duelos",
+          "en-en": "Financial Operations",
+          "es-es": "Operaciones Finacieras"
+        },
+        "3": {
+          "pt-br": "Avançados como nunca.",
+          "en-en": "Profitable and aligned with the Local Regulatory.",
+          "es-es": "Rentables y en Línea con la Normativa Local."
+        }
+      },
+      "text": {
+        "pt-br": "De pagamento até um banco completo, somos uma one-stop-shop que oferece a infraestrutura e tecnologia para o seu negócio, de forma eficiente e sem burocracia.",
+        "en-en": "From payment to a complete bank, we are a one-stop-shop that offers the infrastructure and the technology for your business, efficiently and without bureaucracy.",
+        "es-es": "Del pago a un banco completo, somos una one-stop-shop que ofrece la infraestructura y la tecnología para su negocio, de manera eficiente y sin burocracia."
+      },
+      "second_content": {
+        "primary_button": {
+          "pt-br": "ENTRE EM CONTATO",
+          "en-en": "CONTACT US",
+          "es-es": "CONTÁCTENOS"
+        },
+        "secondary_button": {
+          "pt-br": "BAIXE A APRESENTAÇÃO",
+          "en-en": "DOWNLOAD THE PRESENTATION",
+          "es-es": "DESCARGAR LA PRESENTACIÓN"
+        },
+        "text": [
+          {
+            "pt-br": "Pagamento",
+            "en-en": "Payment",
+            "es-es": "Pago"
+          },
+          {
+            "pt-br": "liquidação",
+            "en-en": "liquidation",
+            "es-es": "liquidación"
+          },
+          {
+            "pt-br": "motor de ",
+            "en-en": "credit ",
+            "es-es": "motor de "
+          },
+          {
+            "pt-br": "crédito",
+            "en-en": "engine",
+            "es-es": "crédito"
+          },
+          {
+            "pt-br": " White Label",
+            "en-en": " White Label",
+            "es-es": " White Label"
+          },
+          {
+            "pt-br": "(BaaS)",
+            "en-en": "(BaaS)",
+            "es-es": "(BaaS)"
+          },
+          {
+            "pt-br": "gerenciamento de risco",
+            "en-en": "risk management",
+            "es-es": "gestión de riesgos"
+          },
+          {
+            "pt-br": " seguro ",
+            "en-en": " insurance ",
+            "es-es": " seguro "
+          },
+          {
+            "pt-br": "e ",
+            "en-en": "and ",
+            "es-es": "e "
+          },
+          {
+            "pt-br": "emissão de cartões",
+            "en-en": "issuance",
+            "es-es": "emisión de tarjetas"
+          },
+          {
+            "pt-br": " de débito e pré pagos",
+            "en-en": " of debit and prepaid cards",
+            "es-es": " de débito e prepagos"
+          }
+        ]
+      }
+    },
+    "gradient_bottom": {
+      "title": {
+        "pt-br": "Clientes",
+        "en-en": "Customers",
+        "es-es": "Clientes"
+      }
+    }
+  }
+}

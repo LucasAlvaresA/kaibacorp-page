@@ -6,80 +6,80 @@
   },
   "main_text": {
     "pt-br": "Você e sua empresa podem ter um banco próprio e operações financeiras seguras e lucrativas. Nosso ecossistema de finanças irá permitir que você crie seu próprio fluxo e realize todas as operações bancárias de forma fácil e prática.",
-    "en-en": "You and your company can have your own bank and secure and profitable financial operations. Our finance ecosystem will allow you to create your own flow and perform all banking operations in an easy and practical way.",
-    "es-es": "Usted y su empresa pueden tener su proprio banco y operaciones financieras seguras y rentables. Nuestro ecosistema financiero te permitirá crear tu propio flujo y realizar todas las operaciones bancarias de una manera fácil e práctica."
+    "en-en": "",
+    "es-es": ""
   },
   "section_areas": {
     "area_emission": {
       "title": {
-        "pt-br": "Emissão de cartões de debito e pré pagos",
-        "en-en": "Issuing of debit and prepaid cards",
-        "es-es": "Emisión de tarjetas de débito y prepago"
+        "pt-br": "Plataforma Avançada de Duelo",
+        "en-en": "Advanced Dueling Platform",
+        "es-es": "Plataforma Avanzada de Duelo"
       },
       "text": {
-        "pt-br": "Você pode em pouco tempo ter uma estrutura de emissão de cartões de débito e pré pagos das bandeiras Master Card e Amex white label ou private label.",
-        "en-en": "You can soon have a structure for issuing debit and prepaid cards under the Master Card and Amex white label or private label flags.",
-        "es-es": "Próximamente podrá contar con una estructura para la emisión de tarjetas de débito y prepago Master Card y Amex White Label o marca privada."
+        "pt-br": "Desenvolvemos uma plataforma avançada para duelos de monstros, proporcionando uma experiência imersiva e estratégica para os duelistas. Nossa tecnologia inovadora redefine os padrões do Duelo de Monstros.",
+        "en-en": "We have developed an advanced platform for monster duels, providing an immersive and strategic experience for duelists. Our innovative technology redefines the standards of Monster Dueling.",
+        "es-es": "Hemos desarrollado una plataforma avanzada para duelos de monstruos, brindando una experiencia inmersiva y estratégica para los duelistas. Nuestra tecnología innovadora redefine los estándares del Duelo de Monstruos."
       }
     },
     "area_insights": {
       "title": {
-        "pt-br": "Insights na análise e monitoramento de transações financeiras",
-        "en-en": "Insights in analyzing and monitoring financial transactions",
-        "es-es": "Insights en el análisis y seguimiento de transacciones financieras"
+        "pt-br": "Consultoria Estratégica de Duelo",
+        "en-en": "Strategic Dueling Consultancy",
+        "es-es": "Consultoría Estratégica de Duelo"
       },
       "text": {
-        "pt-br": "Ferramentas de análise e relatórios para ajuda-lo a entender seus dados e tomar decisões acertivas. Isso pode incluir dados sobre tendências de pagamento, comportamento do cliente e outros insights.",
-        "en-en": "Analysis and reporting tools to help you understand your data and make accurate decisions. This can include data on payment trends, customer behavior and other insights.",
-        "es-es": "Herramientas de análisis e informes para ayudarlo a comprender sus datos y tomar decisiones informadas. Esto puede incluir datos sobre tendencias de pago, comportamiento del cliente y otros insights."
+        "pt-br": "Oferecemos consultoria estratégica personalizada para duelistas profissionais e iniciantes. Nossos especialistas em Duelo de Monstros fornecem orientação para aprimorar habilidades táticas e alcançar o sucesso nas competições.",
+        "en-en": "We offer personalized strategic consultancy for professional and novice duelists. Our Monster Dueling experts provide guidance to enhance tactical skills and achieve success in competitions.",
+        "es-es": "Ofrecemos consultoría estratégica personalizada para duelistas profesionales y principiantes. Nuestros expertos en Duelo de Monstruos brindan orientación para mejorar las habilidades tácticas y alcanzar el éxito en las competiciones."
       }
     },
     "area_bank": {
       "title": {
-        "pt-br": "Seu Banco White label em 40 minutos",
-        "en-en": "Your White Label Bank in 40 minutes",
-        "es-es": "Su Banco White label en 40 minutos"
+        "pt-br": "Desenvolvimento de Cartas Inovadoras",
+        "en-en": "Innovative Card Development",
+        "es-es": "Desarrollo de Cartas Innovadoras"
       },
       "text": {
-        "pt-br": "Criar, operar e oferecer a experiência de um banco completo para sua empresa e clientes, em aplicativo ou desktop, a Qesh entrega uma plataforma flexível e personalizável, e adaptadas às regras do seu negócio.",
-        "en-en": "Create, operate and offer the experience of a complete bank for your company and customers, in an app or desktop, Qesh delivers a flexible and customizable platform, adapted to the rules of your business.",
-        "es-es": "Crear, funcionar y ofrecer la experiencia de un banco completo para su empresa y clientes, en una aplicación o desktop, Qesh entrega una plataforma flexible y personalizable, adaptada a las reglas de su negocio."
+        "pt-br": "Nosso time de especialistas em design e estratégia cria cartas de monstros inovadoras. Colaboramos com os melhores duelistas para desenvolver cartas que revolucionam o campo do Duelo de Monstros.",
+        "en-en": "Our team of design and strategy experts creates innovative monster cards. We collaborate with top duelists to develop cards that revolutionize the field of Monster Dueling.",
+        "es-es": "Nuestro equipo de expertos en diseño y estrategia crea cartas de monstruos innovadoras. Colaboramos con los mejores duelistas para desarrollar cartas que revolucionan el campo del Duelo de Monstruos."
       }
     },
     "area_onboarding": {
       "title": {
-        "pt-br": "Onboarding, KYC e Gerenciamento de Risco",
-        "en-en": "Onboarding, KYC and Risk Management",
-        "es-es": "Onboarding, KYC y Gestión de Riesgos"
+        "pt-br": "Eventos Esportivos de Duelo",
+        "en-en": "Duel Sports Events",
+        "es-es": "Eventos Deportivos de Duelo"
       },
       "text": {
-        "pt-br": "Após a abertura automática de uma conta, nossos sistema de KYC, totalmente automatizado, entre outros provê captura e verificação do documento, biometria facial, listas restritivas, PeP, monitoramento de transações, anti fraude e score de crédito.",
-        "en-en": "After opening an account automatically, our fully automated KYC system, among others, provides document capture and verification, facial biometrics, restrictive lists, PeP, transaction monitoring, anti-fraud and credit scoring.",
-        "es-es": "Después de abrir una cuenta automáticamente, nuestro sistema KYC totalmente automatizado, entre otros, proporciona captura y verificación de documentos, biometría facial, listas restrictivas, PeP, supervisión de transacciones, antifraude y calificación crediticia."
+        "pt-br": "Organizamos eventos esportivos de Duelo de Monstros em nível mundial. Desde competições locais até campeonatos internacionais, oferecemos experiências emocionantes e oportunidades para duelistas brilharem.",
+        "en-en": "We organize Monster Dueling sports events worldwide. From local competitions to international championships, we provide thrilling experiences and opportunities for duelists to shine.",
+        "es-es": "Organizamos eventos deportivos de Duelo de Monstruos a nivel mundial. Desde competiciones locales hasta campeonatos internacionales, ofrecemos experiencias emocionantes y oportunidades para que los duelistas brillen."
       }
     },
     "area_services": {
       "title": {
-        "pt-br": "Serviços de Infraestrutura financeira ágil e completas",
-        "en-en": "Agile and complete financial infrastructure services",
-        "es-es": "Servicios de infraestructura financiera ágiles y completos"
+        "pt-br": "Desenvolvimento de Tecnologia de Duelo",
+        "en-en": "Dueling Technology Development",
+        "es-es": "Desarrollo de Tecnología de Duelo"
       },
       "text": {
-        "pt-br": "Do Sandbox a produção, desenvolvemos sistemas digitais multiplataforma, em plataformas Cloud Native, usando inteligência artificial, machine learning e tecnologia blockchain.",
-        "en-en": "From Sandbox to production, we develop multiplatform digital systems, on Cloud Native platforms, using artificial intelligence, machine learning and blockchain technology.",
-        "es-es": "Desde Sandbox hasta producción, desarrollamos sistemas digitales multiplataforma, sobre plataformas Cloud Native, utilizando inteligencia artificial, machine learning y tecnología blockchain."
+        "pt-br": "Investimos continuamente no desenvolvimento de tecnologias inovadoras para aprimorar a experiência de Duelo de Monstros. Nossas soluções incluem dispositivos de última geração e realidade aumentada.",
+        "en-en": "We continually invest in the development of innovative technologies to enhance the Monster Dueling experience. Our solutions include state-of-the-art devices and augmented reality.",
+        "es-es": "Invertimos continuamente en el desarrollo de tecnologías innovadoras para mejorar la experiencia de Duelo de Monstruos. Nuestras soluciones incluyen dispositivos de última generación y realidad aumentada."
       }
     },
     "area_payments": {
       "title": {
-        "pt-br": "Pagamentos, Cobrança, Recorrência e Split",
-        "en-en": "Payments, Billing, Recurrence and Split",
-        "es-es": "Pago, Facturación, Reaparición e Split"
+        "pt-br": "Responsabilidade Social Duelística",
+        "en-en": "Duelist Social Responsibility",
+        "es-es": "Responsabilidad Social del Duelista"
       },
       "text": {
-        "pt-br": "Um serviço plug and play simples, por meio de uma única API de integração que oferece: PIX, TED, DOC, Boletos, QR Codes.",
-        "en-en": "A simple plug and play service, through a single integration API that offers: PIX, TED, DOC, Boletos, QR Codes.",
-        "es-es": "Un sencillo servicio plug and play, a través de una única API de integración que ofrece: PIX, TED, DOC, Boletos, Códigos QR."
+        "pt-br": "Comprometemo-nos com a responsabilidade social, apoiando causas benéficas e promovendo a inclusão no mundo do Duelo de Monstros. Contribuímos para criar uma comunidade mais justa e acessível.",
+        "en-en": "We commit to social responsibility, supporting charitable causes and promoting inclusion in the world of Monster Dueling. We contribute to creating a fairer and more accessible community.",
+        "es-es": "Nos comprometemos con la responsabilidad social, apoyando causas benéficas y promoviendo la inclusión en el mundo del Duelo de Monstruos. Contribuimos a crear una comunidad más justa y accesible."
       }
     }
   }

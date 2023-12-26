@@ -22,27 +22,24 @@ export const Benefits = (): React.ReactElement => {
             <Styled.Card>
               <Styled.CardTitleArea>
                 {cardsTexts.card_infrastructure.title[1][language]}{' '}
-                <text>{cardsTexts.card_infrastructure.title[2][language]}</text>{' '}
-                <text>{cardsTexts.card_infrastructure.title[3][language]}</text>{' '}
-                {cardsTexts.card_infrastructure.title[4][language]}
+                {cardsTexts.card_infrastructure.title[2][language]}
+                <text>{cardsTexts.card_infrastructure.title[3][language]}</text>
               </Styled.CardTitleArea>
               <Styled.CardText>{cardsTexts.card_infrastructure.text[language]}</Styled.CardText>
             </Styled.Card>
             <Styled.Card>
               <Styled.CardTitleArea>
                 {cardsTexts.card_integration.title[1][language]}{' '}
-                <text>{cardsTexts.card_integration.title[2][language]}</text>{' '}
-                {cardsTexts.card_integration.title[3][language]}
+                <text>{cardsTexts.card_integration.title[2][language]}</text>
               </Styled.CardTitleArea>
               <Styled.CardText>{cardsTexts.card_integration.text[language]}</Styled.CardText>
             </Styled.Card>
             <Styled.Card>
               <Styled.CardTitleArea>
-                {cardsTexts.card_integration.title[1][language]}{' '}
-                <text>{cardsTexts.card_integration.title[2][language]}</text>{' '}
-                {cardsTexts.card_integration.title[3][language]}
+                <text>{cardsTexts.card_open_finance.title[1][language]}</text>
+                {cardsTexts.card_open_finance.title[2][language]}
               </Styled.CardTitleArea>
-              <Styled.CardText>{cardsTexts.card_integration.text[language]}</Styled.CardText>
+              <Styled.CardText>{cardsTexts.card_open_finance.text[language]}</Styled.CardText>
             </Styled.Card>
           </Styled.Cards>
         </>

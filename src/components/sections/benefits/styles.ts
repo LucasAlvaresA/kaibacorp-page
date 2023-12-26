@@ -51,7 +51,7 @@ export const Title = styled.h1`
 `;
 
 export const StrongTitle = styled.h1`
-  color: var(--primary);
+  color: var(--white);
   font-weight: 700;
   font-size: 40px;
   margin-right: 0.6rem;

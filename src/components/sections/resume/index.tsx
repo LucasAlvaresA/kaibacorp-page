@@ -56,17 +56,10 @@ function Resume({ isOpen, setIsOpen }: IResumeProps): ReactElement {
             </div>
             <img src={kaiba} alt="kaiba" className="woman_mobile" />
             <p>
-              <span>{resumeTexts.left.second_content.text[0][language]}</span>,{' '}
-              <span>{resumeTexts.left.second_content.text[1][language]}</span>,{' '}
+              <span>{resumeTexts.left.second_content.text[0][language]}</span>
+              {''}
+              <span>{resumeTexts.left.second_content.text[1][language]}</span>
               {resumeTexts.left.second_content.text[2][language]}
-              <span>{resumeTexts.left.second_content.text[3][language]}</span>,{' '}
-              <span>{resumeTexts.left.second_content.text[4][language]}</span>{' '}
-              {resumeTexts.left.second_content.text[5][language]},{' '}
-              <span>{resumeTexts.left.second_content.text[6][language]}</span>,{' '}
-              <span>{resumeTexts.left.second_content.text[7][language]}</span>
-              {resumeTexts.left.second_content.text[8][language]}
-              <span>{resumeTexts.left.second_content.text[9][language]}</span>
-              {resumeTexts.left.second_content.text[10][language]}.
             </p>
           </SecondContent>
         </Left>

@@ -15,145 +15,63 @@
     "card_infrastructure": {
       "title": {
         "1": {
-          "pt-br": "Infraestrutura",
-          "en-en": "Scalable",
-          "es-es": "Infraestructura"
+          "pt-br": "Pesquisa",
+          "en-en": "Research",
+          "es-es": "Investigación"
         },
         "2": {
-          "pt-br": "escalável e",
-          "en-en": "Infrastructure and",
-          "es-es": "Escalable y"
+          "pt-br": "e",
+          "en-en": "and",
+          "es-es": "y"
         },
         "3": {
-          "pt-br": "segurança",
-          "en-en": "Cloud",
-          "es-es": "Seguridad"
-        },
-        "4": {
-          "pt-br": "em nuvem",
-          "en-en": "Security",
-          "es-es": "en la Nube"
+          "pt-br": "Desenvolvimento",
+          "en-en": "Development",
+          "es-es": "desarrollo"
         }
       },
       "text": {
-        "pt-br": "Em uma estrutura altamente flexível, escalável e confiável com alto nível de segurança, incluindo recursos como redundância, criptografia e controles de acesso seguro.",
-        "en-en": "In a highly flexible, scalable and reliable framework with a high level of security, including features such as redundancy, encryption, and secure access controls.",
-        "es-es": "En una estructura altamente flexible, escalable y confiable, con alto nivel de seguridad, incluyendo funciones como la redundancia, encriptación y controles de acceso seguros."
+        "pt-br": "O foco central da Kaibacorp reside na pesquisa e desenvolvimento de cartas de monstros avançadas e tecnologias inovadoras",
+        "en-en": "Kaibacorp's core focus lies in the research and development of advanced monster cards and innovative technologies",
+        "es-es": "El enfoque principal de Kaibacorp radica en la investigación y el desarrollo de cartas de monstruos avanzadas y tecnologías innovadoras."
       }
     },
     "card_integration": {
       "title": {
         "1": {
-          "pt-br": "Integração e serviços",
-          "en-en": "100% digital",
-          "es-es": "Integración y Servicios"
+          "pt-br": "Discos de",
+          "en-en": "Duel",
+          "es-es": "Discos de"
         },
         "2": {
-          "pt-br": "Plug and Play",
-          "en-en": "Plug and Play",
-          "es-es": "Plug and Play"
-        },
-        "3": {
-          "pt-br": "100% digitais",
-          "en-en": "integration and services",
-          "es-es": "100% Digitales"
+          "pt-br": "Duelo",
+          "en-en": "Discs",
+          "es-es": "Duelo"
         }
       },
       "text": {
-        "pt-br": "Todos nossos serviços são consumidos através de nossas APIs, de fácil acesso e documentação suas integrações são simples e ágeis.",
-        "en-en": "All our services are consumed through our APIs, with easy access and documentation, their integrations are simple and agile.",
-        "es-es": "Todos nuestros servicios se consumen a través de nuestras APIs, de fácil acceso y documentación, sus integraciones son sencillas y ágiles."
+        "pt-br": "Revolucionaram a forma como os duelos são conduzidos, oferecendo uma experiência imersiva e emocionante para os participantes.",
+        "en-en": "They revolutionized the way duels are conducted, offering an immersive and exciting experience for participants.",
+        "es-es": "Revolucionaron la forma en que se llevan a cabo los duelos, ofreciendo una experiencia inmersiva y emocionante para los participantes."
       }
     },
     "card_open_finance": {
       "title": {
         "1": {
-          "pt-br": "Baixa Fricção",
-          "en-en": "Low Friction",
-          "es-es": "Baja Fricción"
+          "pt-br": "Referência ",
+          "en-en": "Reference ",
+          "es-es": "Referencia "
         },
         "2": {
-          "pt-br": "em um Sistema Open Finance",
-          "en-en": "in an Open Finance System",
-          "es-es": "en un Sistema Open Finance"
+          "pt-br": "no mercado",
+          "en-en": "in the market",
+          "es-es": "en el mercado"
         }
       },
       "text": {
-        "pt-br": "Transparência e segurança. Seu usuário terá uma experiência única, pois inicia e finaliza a operação sem sair do seu ambiente.",
-        "en-en": "Transparency and security. Your user will have a unique experience, because it starts and ends the operation without leaving the environment.",
-        "es-es": "Transparencia y seguridad. Tu usuario tendrá una experiencia única, ya que inicia y finaliza la operación sin salir de su entorno."
-      }
-    },
-    "card_important": {
-      "title": {
-        "1": {
-          "pt-br": "Você foca no que é",
-          "en-en": "You Focus on What's",
-          "es-es": "Tu Enfocas en lo que es"
-        },
-        "2": {
-          "pt-br": "Importante Para Você",
-          "en-en": "Important to You",
-          "es-es": "Importante Para Ti"
-        }
-      },
-      "text": {
-        "pt-br": "O resto é conosco, do Sandbox à produção, você terá uma operação digital totalmente dentro do regulatório e leis locais.",
-        "en-en": "The rest is up to us, from Sandbox to production, you will have a digital operation fully within the regulations and local laws.",
-        "es-es": "El resto depende de nosotros, desde el Sandbox hasta la producción, tendrás una operación digital totalmente dentro de las regulaciones y leyes locales."
-      }
-    },
-    "card_no_risks": {
-      "title": {
-        "1": {
-          "pt-br": "Sem riscos na",
-          "en-en": "No Risk in",
-          "es-es": "Sin Riesgos en la"
-        },
-        "2": {
-          "pt-br": "Abertura de",
-          "en-en": "Opening",
-          "es-es": "Abertura de"
-        },
-        "3": {
-          "pt-br": "Contas",
-          "en-en": "Accounts",
-          "es-es": "Cuentas"
-        },
-        "4": {
-          "pt-br": "para seus Usuários",
-          "en-en": "for your Users",
-          "es-es": "para sus Usuários"
-        }
-      },
-      "text": {
-        "pt-br": "Todo o processo de Onboarding e KYC, são aliados a um robusto sistema de gerenciamento e análise de risco.",
-        "en-en": "The entire Onboarding and KYC process is combined with a robust risk management and analysis system.",
-        "es-es": "Todo el proceso de Onboarding y KYC se combina con un sistema robusto de gestión y análisis de riesgos."
-      }
-    },
-    "card_adequacy": {
-      "title": {
-        "1": {
-          "pt-br": "Não Sofra com",
-          "en-en": "Don't Suffer from",
-          "es-es": "No Sufra por el"
-        },
-        "2": {
-          "pt-br": "Adequação de",
-          "en-en": "Regulatory",
-          "es-es": "Cumplimiento"
-        },
-        "3": {
-          "pt-br": "Regulatórios",
-          "en-en": "Compliance",
-          "es-es": "Normativo"
-        }
-      },
-      "text": {
-        "pt-br": "Todos os nossos sistemas e serviços estão em consonância com as regras e leis locais, em linha com COAF e BACEN.",
-        "en-en": "All our systems and services are in line with local rules and laws, in line with COAF and BACEN.",
-        "es-es": "Todos nuestros sistemas y servicios están en línea con las normas y leyes locales, en línea con COAF y BACEN."
+        "pt-br": "Promoção de competições de Duelo em todo o mundo, contribuindo para o crescimento e a popularidade contínuos do setor.",
+        "en-en": "Promoting Duel competitions around the world, contributing to the continued growth and popularity of the sector.",
+        "es-es": "Promocionar las competiciones de Duelo en todo el mundo, contribuyendo al continuo crecimiento y popularidad del sector."
       }
     }
   }

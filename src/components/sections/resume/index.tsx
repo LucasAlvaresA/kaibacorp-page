@@ -55,12 +55,6 @@ function Resume({ isOpen, setIsOpen }: IResumeProps): ReactElement {
               </a>
             </div>
             <img src={kaiba} alt="kaiba" className="woman_mobile" />
-            <p>
-              <span>{resumeTexts.left.second_content.text[0][language]}</span>
-              {''}
-              <span>{resumeTexts.left.second_content.text[1][language]}</span>
-              {resumeTexts.left.second_content.text[2][language]}
-            </p>
           </SecondContent>
         </Left>
       </Banner>

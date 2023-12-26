@@ -64,6 +64,7 @@ export const Header = styled.header<IProps>`
       display: block;
       width: 35%;
       max-width: 130px;
+      margin-bottom: 50px;
     }
 
     .buttons {

@@ -1,4 +1,4 @@
-import React, { ReactElement } from 'react';
+import { ReactElement } from 'react';
 import {
   Container,
   Header,
@@ -12,8 +12,12 @@ import {
 } from './styles';
 import logo from '../../../assets/logo.png';
 import kaiba from '../../../assets/kaiba.png';
-import client1 from '../../../assets/client1.png';
-import client2 from '../../../assets/client2.png';
+import client1 from '../../../assets/clients/client1.png';
+import client2 from '../../../assets/clients/client2.png';
+import client3 from '../../../assets/clients/client3.png';
+import client4 from '../../../assets/clients/client4.png';
+import client5 from '../../../assets/clients/client5.png';
+import client6 from '../../../assets/clients/client6.png';
 import * as langs from '../../../langs/resume.json';
 import Burger from '../../items/Burger';
 import { IResumeProps } from './Resume.structure';
@@ -64,9 +68,12 @@ function Resume({ isOpen, setIsOpen }: IResumeProps): ReactElement {
           <p>{resumeTexts.gradient_bottom.title[language]}</p>
           <Clients>
             <div>
-              <img src={client1} alt="client1" className="client1" />
-              <img src={client2} alt="client2" className="client2" />
-              <img src={client1} alt="client1" className="client1" />
+              <img src={client1} alt="client1" />
+              <img src={client2} alt="client2" />
+              <img src={client3} alt="client3" />
+              <img src={client4} alt="client4" />
+              <img src={client5} alt="client5" />
+              <img src={client6} alt="client6" />
             </div>
           </Clients>
         </GradientBottom>

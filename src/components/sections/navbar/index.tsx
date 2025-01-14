@@ -1,9 +1,9 @@
 import { ReactElement } from 'react';
 
 import { Container, BoxIdiom, BoxContactUs, Grid } from './styles';
-import brazil_flag from '../../../assets/brazil_flag.svg';
-import usa_flag from '../../../assets/usa_flag.svg';
-import spain_flag from '../../../assets/spain_flag.svg';
+import brazil_flag from '../../../assets/flags/brazil_flag.svg';
+import usa_flag from '../../../assets/flags/usa_flag.svg';
+import spain_flag from '../../../assets/flags/spain_flag.svg';
 import { INavbarProps } from './Navbar.structure';
 import LanguageCard from '../../items/Language';
 import * as langs from '../../../langs/navbar.json';

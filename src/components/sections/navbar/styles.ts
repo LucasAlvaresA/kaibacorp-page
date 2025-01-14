@@ -76,6 +76,8 @@ export const BoxIdiom = styled.div`
     letter-spacing: 0.0025em;
     color: var(--gray5);
     padding: 0 1rem;
+    width: 100%;
+    text-align: center;
   }
 
   .cards {

@@ -176,18 +176,18 @@ export const Title = styled.div`
 
     h1 {
       color: var(--gray6);
-      font-size: 2.7vw;
+      font-size: 4vw;
     }
 
     p {
       color: var(--gray6);
-      font-size: 1.4vw;
+      font-size: 1.8vw;
     }
   }
 
   @media screen and (min-width: 1450px) {
     h1 {
-      font-size: 2.8vw;
+      font-size: 3.5vw;
     }
 
     p {
@@ -463,6 +463,10 @@ export const GradientBottom = styled.div`
       font-size: 2vw;
     }
   }
+
+  @media (max-width: 769px) {
+    display: none;
+  }
 `;
 
 export const Clients = styled.div`
@@ -494,13 +498,6 @@ export const Clients = styled.div`
 
   img {
     transition: 0.3s ease-in-out;
-  }
-
-  .client1 {
-    width: 100px;
-  }
-
-  .client2 {
     width: 100px;
   }
 
@@ -522,6 +519,10 @@ export const Clients = styled.div`
     img:hover {
       transform: scale(1.3);
     }
+  }
+
+  @media screen and (max-width: 769px) {
+    display: none;
   }
 `;
 

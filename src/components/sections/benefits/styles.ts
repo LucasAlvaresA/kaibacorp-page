@@ -40,14 +40,6 @@ export const Title = styled.h1`
   @media (max-width: 505px) {
     font-size: 35px;
   }
-
-  @media (max-width: 455px) {
-    font-size: 35px;
-  }
-
-  @media (max-width: 350px) {
-    font-size: 30px;
-  }
 `;
 
 export const StrongTitle = styled.h1`
@@ -58,10 +50,6 @@ export const StrongTitle = styled.h1`
 
   @media (max-width: 455px) {
     font-size: 35px;
-  }
-
-  @media (max-width: 350px) {
-    font-size: 30px;
   }
 `;
 
@@ -82,12 +70,18 @@ export const Cards = styled.div`
   justify-content: center;
   gap: 5rem;
 
-  @media (max-width: 1400px) {
+  @media (max-width: 1470px) {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5rem 3rem;
+    justify-content: center;
     align-items: center;
   }
 
   @media (max-width: 1000px) {
+    display: flex;
     flex-direction: column;
+    align-items: center;
   }
 `;
 
@@ -101,17 +95,6 @@ export const Card = styled.div`
   flex-direction: column;
   box-shadow: 1px 1px 13px rgba(0, 0, 0, 0.1);
   border-radius: 16px;
-
-  @media (max-width: 1500px) {
-    width: 300px;
-    height: 200px;
-  }
-
-  @media (max-width: 1400px) {
-    width: 100%;
-    padding: 0 1rem;
-    height: 300px;
-  }
 `;
 
 export const CardTitleArea = styled.div`

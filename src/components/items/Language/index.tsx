@@ -8,11 +8,13 @@ function LanguageCard({ flag, languageName, country, acronym }: ILanguageCardPro
 
   return (
     <Container
+      type="button"
       onClick={() => {
         setLanguage(acronym);
         localStorage.setItem('lang', acronym);
       }}
       isSelected={language === acronym}
+      aria-pressed={language === acronym}
     >
       <img src={flag} alt={country} />
       <div>

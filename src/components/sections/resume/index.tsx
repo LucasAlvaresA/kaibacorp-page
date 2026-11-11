@@ -2,13 +2,17 @@ import { ReactElement } from 'react';
 import {
   Container,
   Header,
-  Banner,
-  GradientBottom,
+  Hero,
+  Content,
   Title,
-  Clients,
-  SecondContent,
-  Left,
-  Right
+  Description,
+  Actions,
+  Visual,
+  ClientsBar,
+  ClientsLabel,
+  Marquee,
+  MarqueeTrack,
+  MarqueeGroup
 } from './styles';
 import logo from '../../../assets/logo.png';
 import kaiba from '../../../assets/kaiba.png';
@@ -24,60 +28,86 @@ import { IResumeProps } from './Resume.structure';
 import { useLangs } from '../../../context/langsContext';
 import SwitchLanguages from '../../items/switchLanguages';
 
+const clients = [client1, client2, client3, client4, client5, client6];
+
 function Resume({ isOpen, setIsOpen }: IResumeProps): ReactElement {
   const { language } = useLangs();
 
   const resumeTexts = langs.section_resume;
+  const title = resumeTexts.left.title;
 
   return (
     <Container>
-      <Banner>
-        <Header isOpen={isOpen}>
-          <img src={logo} alt="Logo" className="image_desktop" />
-          <div className="buttons">
-            <a>{resumeTexts.header.button[language]}</a>
-            <SwitchLanguages />
-          </div>
-          <Burger isOpen={isOpen} onClick={() => setIsOpen(!isOpen)} />
-        </Header>
-        <Left>
+      <Header isOpen={isOpen}>
+        <div className="brand">
+          <img src={logo} alt="KaibaCorp" className="brand-mark" />
+          <span className="brand-name">KaibaCorp</span>
+        </div>
+        <div className="actions">
+          <SwitchLanguages />
+          <a href="" target="_blank" className="contact">
+            {resumeTexts.header.button[language]}
+            <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+        <Burger isOpen={isOpen} onClick={() => setIsOpen(!isOpen)} />
+      </Header>
+
+      <Hero>
+        <Content>
           <Title>
             <h1>
-              {resumeTexts.left.title[1][language]}{' '}
-              <span>{resumeTexts.left.title[2][language]}</span>{' '}
-              {resumeTexts.left.title[3][language]}
+              {title[1][language]} <span>{title[2][language]}</span> {title[3][language]}
             </h1>
-            <p>{resumeTexts.left.text[language]}</p>
           </Title>
-          <SecondContent>
-            <div>
-              <a href="" target="_blank" className="primary_button">
-                {resumeTexts.left.second_content.primary_button[language]}
-              </a>
-              <a href="" target="_blank" className="secondary_button">
-                {resumeTexts.left.second_content.secondary_button[language]}
-              </a>
-            </div>
-            <img src={kaiba} alt="kaiba" className="woman_mobile" />
-          </SecondContent>
-        </Left>
-      </Banner>
-      <Right>
-        <img src={kaiba} alt="kaiba" className="woman_desktop" />
-        <GradientBottom>
-          <p>{resumeTexts.gradient_bottom.title[language]}</p>
-          <Clients>
-            <div>
-              <img src={client1} alt="client1" />
-              <img src={client2} alt="client2" />
-              <img src={client3} alt="client3" />
-              <img src={client4} alt="client4" />
-              <img src={client5} alt="client5" />
-              <img src={client6} alt="client6" />
-            </div>
-          </Clients>
-        </GradientBottom>
-      </Right>
+          <Description>{resumeTexts.left.text[language]}</Description>
+          <Actions>
+            <a href="" target="_blank" className="primary_button">
+              <span>{resumeTexts.left.second_content.primary_button[language]}</span>
+              <span className="action-icon" aria-hidden="true">
+                ↗
+              </span>
+            </a>
+            <a href="" target="_blank" className="secondary_button">
+              <span>{resumeTexts.left.second_content.secondary_button[language]}</span>
+              <span className="action-icon" aria-hidden="true">
+                ↓
+              </span>
+            </a>
+          </Actions>
+        </Content>
+
+        <Visual>
+          <span className="halo" aria-hidden="true" />
+          <span className="orbit orbit-one" aria-hidden="true" />
+          <span className="orbit orbit-two" aria-hidden="true" />
+          <img src={logo} alt="" className="watermark" aria-hidden="true" />
+          <img src={kaiba} alt="Seto Kaiba" className="portrait" />
+        </Visual>
+      </Hero>
+
+      <ClientsBar>
+        <ClientsLabel>{resumeTexts.gradient_bottom.title[language]}</ClientsLabel>
+        <Marquee>
+          <MarqueeTrack>
+            {[0, 1].map((group) => (
+              <MarqueeGroup
+                key={group}
+                aria-hidden={group === 1 ? true : undefined}
+                className={group === 1 ? 'is-clone' : undefined}
+              >
+                {clients.map((client, index) => (
+                  <img
+                    key={`${group}-${index}`}
+                    src={client}
+                    alt={group === 0 ? 'Blue-Eyes White Dragon' : ''}
+                  />
+                ))}
+              </MarqueeGroup>
+            ))}
+          </MarqueeTrack>
+        </Marquee>
+      </ClientsBar>
     </Container>
   );
 }
